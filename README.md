@@ -49,7 +49,7 @@ The **buzzer** is driven using a **low-side NMOS switch**, allowing higher curre
 # Routing
 <img width="559" height="608" alt="image" src="https://github.com/user-attachments/assets/7b88c6ae-8b3c-4bd4-a420-3b09a26fcc10" />
 
-<img width="582" height="613" alt="image" src="https://github.com/user-attachments/assets/7ff0c3e3-7d96-47bc-ae35-93fa60b01771" />
+<img width="594" height="670" alt="image" src="https://github.com/user-attachments/assets/6520a8d9-bd94-4c99-a81e-0fdd9e5b7af5" />
 
 # Software/firmware for product can be found here
 https://github.com/BrycesDevices/7855_202610_03
