@@ -43,7 +43,7 @@ The **buzzer** is driven using a **low-side NMOS switch**, allowing higher curre
 
 - The NMOS enables efficient switching, allowing the buzzer to be driven using a PWM signal for tone generation
 
-- In addition to this an LED driver and IMU is controlled via I2C
+In addition to this an **LED driver** and **IMU** is controlled via **I2C**
 
 <img width="1168" height="600" alt="image" src="https://github.com/user-attachments/assets/1f22c507-3b4a-45e0-9b00-0e5c355a666a" />
 
