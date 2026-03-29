@@ -22,7 +22,8 @@ Here we used an ESP32-C3-MINI to be able to access the WIFI feature of the board
 # BMS
 This is a standard OR circuit. Where the 3V3 buck-converter either steps down voltage from the USB-C or the LIPO-battery.
 This circuit also contains battery charging, battery protection, and battery measurement
-<img width="1223" height="599" alt="image" src="https://github.com/user-attachments/assets/3a52e4d1-2a26-4f2c-80ff-185c3bfa7e52" />
+<img width="1228" height="601" alt="image" src="https://github.com/user-attachments/assets/b245d42a-d60b-4104-9b95-76d51d156b5e" />
+
 
 # Application
 **Piezo disk** is used as a tap-sensitive input and sampled through an ADC. Because piezoelectric elements can generate relatively high voltages(30V), the front-end includes protection circuitry to keep the ADC input within the 0–3.3 V safe operating range. 
