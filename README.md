@@ -44,7 +44,7 @@ The **buzzer** is driven using a **low-side NMOS switch**, allowing higher curre
 
 - In addition to this an LED driver and IMU is controlled via I2C
 
-<img width="1063" height="581" alt="image" src="https://github.com/user-attachments/assets/f6bfa5b1-f099-4bcf-8909-5aed50dc8585" />
+<img width="1168" height="600" alt="image" src="https://github.com/user-attachments/assets/1f22c507-3b4a-45e0-9b00-0e5c355a666a" />
 
 # Routing
 <img width="559" height="608" alt="image" src="https://github.com/user-attachments/assets/7b88c6ae-8b3c-4bd4-a420-3b09a26fcc10" />
