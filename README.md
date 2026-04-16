@@ -1,3 +1,8 @@
+## 🎥 Demo Video
+
+[![Breathing Cube Demo](https://img.youtube.com/vi/30qCVAPGlBw/0.jpg)](https://www.youtube.com/watch?v=30qCVAPGlBw)
+
+
 # BreathingCUBE_hardware
 
 In today’s digital world, attention is constantly fragmented. Smartphones, notifications, social media feeds, and endless scrolling compete for our focus every minute of the day. The result is chronic distraction, diminished deep focus, and elevated stress levels.
@@ -5,6 +10,7 @@ In today’s digital world, attention is constantly fragmented. Smartphones, not
 Now imagine being able to step away from that noise, even for a few minutes, and reconnect with your breath.
 
 The BreathingCube is an IoT-enabled device designed to help individuals integrate meditation into busy daily life. Through guided ambient lighting patterns and subtle sound cues, it encourages intentional breathing and mindfulness practice, helping calm the nervous system and restore a sense of presence.
+
 
 # HARDWARE
 This is a 4-layer PCB with SIGNAL,GND,3V3,SIGNAL+GND stackup. 
