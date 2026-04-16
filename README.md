@@ -61,5 +61,3 @@ In addition to this an **LED driver** and **IMU** is controlled via **I2C**
 # Software/firmware for product can be found here
 https://github.com/BrycesDevices/7855_202610_03
 
-# Revision 1 of breathingCUBE can be found here
-https://github.com/Parry-Zhuo/BreathingCube
