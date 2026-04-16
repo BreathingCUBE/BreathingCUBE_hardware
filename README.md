@@ -1,7 +1,6 @@
 ## 🎥 Demo Video
 
-[![Breathing Cube Demo](https://img.youtube.com/vi/30qCVAPGlBw/0.jpg)](https://www.youtube.com/watch?v=30qCVAPGlBw)
-
+[![Breathing Cube Demo](https://img.youtube.com/vi/ZYL1yozNlrI/0.jpg)](https://www.youtube.com/watch?v=ZYL1yozNlrI)
 
 # BreathingCUBE_hardware
 
