@@ -1,5 +1,11 @@
 ## 🎥 Demo Video
 
+DEMO OF FINISHED PCB
+
+https://github.com/user-attachments/assets/a70515e6-1e21-4e5d-ba86-2a85744ff0eb
+
+DEMO OF SOFTWARE
+
 [![Breathing Cube Demo](https://img.youtube.com/vi/ZYL1yozNlrI/0.jpg)](https://www.youtube.com/watch?v=ZYL1yozNlrI)
 
 # BreathingCUBE_hardware
